@@ -24,5 +24,5 @@ def displayVideo(video_path):
     cap.release()
     cv2.destroyAllWindows()
 
-
+# call the functions
 displayVideo("video.mov")
