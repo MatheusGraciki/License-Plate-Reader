@@ -1,12 +1,11 @@
-
+# Warnings!!!
+Utilize the code on Colab Notebook to not overloading your CPU and potentially crashing your computer.
 # License Plate Reader
-
 Detect, save crop images of licenses plates and transform them to text format.
 
 ## Knowledge acquired with this project
-
  - How train an IA to reconize objects.
- - How reconize objetcs and track them without my CPU
+ - How reconize objetcs and track them without
 
 ## Screenshots
 ### Output Video
