@@ -15,10 +15,23 @@ This project aims to detect vehicle license plates in videos, crop the plate ima
 
 ## Potential Applications
 
-The extracted data can be used for various applications, including:
+The system's capabilities extend to various applications, including:
 
-- **Vehicle Tracking**: Analyzing the detected license plates to track the movement of vehicles.
-- **Parking Management System**: Implementing a system where registered users can be charged for parking based on detected license plates.
+- Efficient Parking Management: Automating parking fee deductions based on recognized license plates, enhancing convenience for users, and optimizing revenue collection for operators.
+
+- Enhanced Security: Monitoring and tracking vehicles entering and exiting premises, bolstering security measures, and facilitating better control over parking facilities.
+
+## Video Results
+
+[Video Results](https://github.com/MatheusGraciki/License-Plate-Reader/assets/85004422/a3362759-5604-4c3e-b143-7b829f8ef2a1)
+
+## Accessing the Project
+
+This project can be accessed via Google Colab using the following link: [Google Colab Link](https://colab.research.google.com/drive/1hMe21fp9Src31hDu2adCORkAlmzDPdK6?authuser=0#scrollTo=94GeU8KJM4Ar)
+
+## Improving Results with Preprocessing Filters
+
+The project's performance can be enhanced by applying preprocessing filters to the input video frames before license plate detection. These filters may include techniques such as noise reduction, contrast enhancement, and edge detection, improving the accuracy.
 
 ## Feedback
 
@@ -31,5 +44,10 @@ We welcome any feedback or suggestions for improvement. Please reach out to us a
 - `ultralytics`
 - `opencv-python`
 - `paddleocr`
+
+ 
+
+
+
 
 
