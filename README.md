@@ -27,7 +27,7 @@ The system's capabilities extend to various applications, including:
 
 ## Accessing the Project
 
-This project can be accessed via Google Colab using the following link: [Google Colab Link](https://colab.research.google.com/drive/1hMe21fp9Src31hDu2adCORkAlmzDPdK6?authuser=0#scrollTo=94GeU8KJM4Ar)
+This project can be accessed via Google Colab using the following link: [Google Colab Link](https://colab.research.google.com/drive/1hMe21fp9Src31hDu2adCORkAlmzDPdK6?usp=sharing)
 
 ## Improving Results with Preprocessing Filters
 
